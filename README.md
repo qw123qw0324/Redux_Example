@@ -1,1 +1,1 @@
-# This is a example of redux
+# This is an example of redux
